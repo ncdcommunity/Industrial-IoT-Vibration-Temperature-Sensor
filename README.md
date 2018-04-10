@@ -1,7 +1,7 @@
 # Industrial-IoT-Vibration-Temperature-Sensor
-Industrial Wireless Accelero Gyro Magneto temperature Sensor With 2 Mile Range Long range wireless IoT Accelero Gyro Magneto sensor can be found over here https://store.ncd.io/iot-long-range-wireless-vibration-and-temperature-sensor/
+Industrial Wireless Vibration temperature Sensor With 2 Mile Range Long range wireless IoT Vibration Temperature sensor can be found over here https://store.ncd.io/iot-long-range-wireless-vibration-and-temperature-sensor/
 
-this Labview software will work with ncd.io wireless Accelero Gyro Magneto sesnor only
+this Labview software will work with ncd.io wireless Vibration Temperature sesnor only
 
 To use this Labview Utility You will need a Wireless to USB router, whihc can be found over here https://store.ncd.io/product/900hp-s3b-long-range-wireless-mesh-modem-with-usb-interface/
 
